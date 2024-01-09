@@ -1,4 +1,4 @@
-Harvard Fall 2023 AC215 MLOPS Final Project - Multimodal Fake News Detector
+Harvard Fall 2023 AC215 (MlOps) Final Project - Multimodal Fake News Detector
 ==============================
 ### Presentation  Video
 * Welcome to watch our 5-min short demo on [YouTube](https://www.youtube.com/watch?v=M-FCuTmZHN4)!
