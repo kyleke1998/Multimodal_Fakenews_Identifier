@@ -165,7 +165,7 @@ Here is our Solution Architecture:
 
 
 Here is our Technical Architecture:
-<![image](https://github.com/kyleke1998/Multimodal_Fakenews_Identifier/assets/64662601/ff69efe2-5b23-41d2-a862-65ff29c6a6ff)>
+![image](https://github.com/kyleke1998/Multimodal_Fakenews_Identifier/assets/64662601/ff69efe2-5b23-41d2-a862-65ff29c6a6ff)
 
 *Figure 2: Technical architecture of project*
 
